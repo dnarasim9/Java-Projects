@@ -71,7 +71,6 @@ public class MyCrawler extends WebCrawler {
 
         //props.updateNoOfStatusCodes(statusCode);
 
-
         //props.fetchStats("succeeded");
 //        props.addSuccessfulURL(url, page.getContentData().length, links.size(), page.getContentType());
         props.addLinksAndCintentType(page.getContentData().length,page.getContentType());
