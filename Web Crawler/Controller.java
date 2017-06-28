@@ -13,7 +13,6 @@
     public class Controller {
         public static int total_uniqueUrlsExtracted = 0;
         public static int totalUrlsExtracted = 0;
-        public static int totalUrlsFetched = 0;
         
        public static void main(String[] args) throws Exception {
            String crawlStorageFolder = "D:\\Dheemanth\\US\\USC\\CSCI 572 - Information Retrieval and Web Search Engines\\Homeworks\\Homework 2 - Web Crawling\\Crawl Storage Folder";
