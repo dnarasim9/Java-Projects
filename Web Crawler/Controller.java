@@ -40,7 +40,7 @@
            /*
             * For each crawl, you need to add some seed urls. These are the first
             * URLs that are fetched and then the crawler starts following links
-            * which are found in these pages
+            * which are found in these pages.
             */
            for (String domain : crawlDomains) {
                controller.addSeed(domain);
