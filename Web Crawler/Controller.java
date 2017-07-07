@@ -47,8 +47,6 @@
              }
 
             //controller.addSeed("http://cinema.usc.edu/");
-           //controller.deleteSeed("http://cinema.usc.edu/");
-           
            
 
            /*
