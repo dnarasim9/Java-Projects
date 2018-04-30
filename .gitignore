@@ -1,8 +1,10 @@
-.classpath
-.project
-.DS_Store
-.idea/
-.bin/
-.out/
+# files excluded from git
 *.class
+*.jar
+*.war
+*.ear
 *.iml
+target/
+.idea/
+out/
+*.so
